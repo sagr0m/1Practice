@@ -1,0 +1,41 @@
+body{
+  background-color:#E8E8E8;
+}
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.card{
+  width: 300px;
+  height: 500px;
+  background-color: white;
+  border-radius: 0px 0px 20px 20px;
+}
+.title{
+  height: 50px;
+  background-color: #151536;
+  display: flex;
+  align-items: center;
+  border-radius: 0px 0px 20px 20px;
+}
+
+.Balloon{
+  width: 10%;
+}
+
+.texttitle{
+  color: white;
+}
+
+.product{
+  display: flex;
+  gap: 10px;
+  margin-bottom:10px;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.pictureproduct{
+  width: 100%;
+}
